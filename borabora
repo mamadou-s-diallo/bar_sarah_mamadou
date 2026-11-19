@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Lanceur du projet BoraBora.
+# Appelle la fonction principale de lancement.
+
 from lancement import main
 
 main()

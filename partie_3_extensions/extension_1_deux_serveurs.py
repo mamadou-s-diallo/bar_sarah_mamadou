@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 3, extension 1 : ajout d’un deuxième serveur.
+# Coordonne la prise des commandes dans le bar.
+
 
 import sys,time,re
 import tempfile

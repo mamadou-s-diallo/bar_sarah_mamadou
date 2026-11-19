@@ -1,3 +1,6 @@
+# Point d’entrée de la simulation du bar.
+# Analyse les options et lance le mode ou l’extension demandé.
+
 import argparse
 import asyncio
 import math

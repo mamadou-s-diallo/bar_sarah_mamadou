@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 1, étape 1 : saisie des commandes au clavier.
+# Traitement séquentiel des commandes par les employés.
+
 
 import sys,time,re
 

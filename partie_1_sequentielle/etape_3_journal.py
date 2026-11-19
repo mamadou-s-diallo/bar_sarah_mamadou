@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 1, étape 3 : journalisation du service.
+# Enregistre les événements du traitement séquentiel.
+
 
 import sys,time,re
 import tempfile

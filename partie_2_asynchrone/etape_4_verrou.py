@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 2, étape 4 : synchronisation par verrous.
+# Protège les ressources partagées avec asyncio.Lock.
+
 
 import sys,time,re
 import tempfile

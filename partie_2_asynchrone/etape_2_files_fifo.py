@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 2, étape 2 : utilisation de files FIFO.
+# Transmet les commandes entre tâches avec asyncio.Queue.
+
 
 import sys,time,re
 import tempfile

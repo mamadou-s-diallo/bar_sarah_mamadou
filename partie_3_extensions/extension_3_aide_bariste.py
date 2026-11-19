@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 3, extension 3 : aide au bariste.
+# Étend la coopération pendant la préparation des cocktails.
+
 
 import sys,time,re
 import tempfile

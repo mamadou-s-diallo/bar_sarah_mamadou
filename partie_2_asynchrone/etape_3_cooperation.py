@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 2, étape 3 : coopération entre tâches.
+# Coordonne les activités asynchrones des employés.
+
 
 import sys,time,re
 import tempfile

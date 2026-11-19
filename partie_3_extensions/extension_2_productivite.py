@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 3, extension 2 : productivité du service.
+# Étend la simulation asynchrone du bar.
+
 
 import sys,time,re
 import tempfile

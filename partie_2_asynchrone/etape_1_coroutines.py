@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 2, étape 1 : introduction des coroutines.
+# Organise le service de manière asynchrone avec asyncio.
+
 
 import sys,time,re
 import tempfile

@@ -1,3 +1,6 @@
+# Tests automatisés du projet BoraBora.
+# Vérifie le fonctionnement des différents modes de simulation.
+
 import subprocess
 import sys
 import tempfile

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Partie 1, étape 2 : lecture des commandes dans un fichier.
+# Prise en compte des délais indiqués pour chaque commande.
+
 
 import sys,time,re
 
