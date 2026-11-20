@@ -1,6 +1,6 @@
 BoraBora
 
-Les commandes sont à exécuter dans PowerShell, depuis le dossier BoraBora qui contient les fichiers lundi, mardi et test_bar.py.
+Les commandes sont à exécuter dans PowerShell, depuis le dossier BoraBora qui contient les fichiers lundi, mardi.
 
 
 Partie 1. Exécution séquentielle
@@ -77,9 +77,7 @@ py -3.13 .\partie_3_extensions\extension_2_productivite.py .\mardi
 Extension 3. Participation du barman au service
 py -3.13 .\partie_3_extensions\extension_3_aide_bariste.py .\mardi
 
-Les actions des trois employés sont enregistrées dans borabora.log. La commande suivante lance les tests de l’ensemble du projet.
-
-py -3.13 -m unittest -v test_bar
+Les actions des trois employés sont enregistrées dans borabora.log. 
 
 Méthode utilisée
 
